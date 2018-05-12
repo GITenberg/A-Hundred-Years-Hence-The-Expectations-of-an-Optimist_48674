@@ -1,10 +1,16 @@
 _repo: A-Hundred-Years-Hence-The-Expectations-of-an-Optimist_48674
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48674-h/images/cover.jpg
 creator:
   author:
     agent_name: Russell, T. Baron
     gutenberg_agent_id: '44913'
     url: http://www.gutenberg.org/2009/agents/44913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48674#A-Hundred-Years-Hence-The-Expectations-of-an-Optimist
 gutenberg_issued: '2015-04-09'
 gutenberg_type: Text
 identifiers:
